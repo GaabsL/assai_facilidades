@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Performance Facilidades Assaí",
+  "description": "Painel de controle de performance da categoria Facilidades do Assaí Atacadista (Janeiro a Junho de 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
